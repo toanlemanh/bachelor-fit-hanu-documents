@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T16:40:53.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2OxC53gkwSblVQ2rEw27" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T04:26:56.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ky9rKIfXrUx_J681bbpd" version="22.1.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="8715" dy="1975" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="7844" dy="1375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3508,6 +3508,30 @@
               <mxPoint x="-1737" y="2368" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zmZohHl6lgKfs9sftYbi-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4517" y="1712" width="504" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="zmZohHl6lgKfs9sftYbi-4" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Click on &quot;Add new admin &quot;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4528" y="1799" width="545" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zmZohHl6lgKfs9sftYbi-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4507.5" y="2020" width="504" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="zmZohHl6lgKfs9sftYbi-6" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;Fill register form&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4523" y="2091" width="545" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zmZohHl6lgKfs9sftYbi-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4502.5" y="2354" width="504" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="zmZohHl6lgKfs9sftYbi-8" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;Fill account form&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4511" y="2445" width="545" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zmZohHl6lgKfs9sftYbi-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4505" y="2666" width="504" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="zmZohHl6lgKfs9sftYbi-10" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;Click on &quot;Confirm&quot;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4532" y="2750" width="545" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
