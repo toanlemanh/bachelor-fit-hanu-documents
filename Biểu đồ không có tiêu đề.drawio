@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T18:12:05.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6bD74LvRj1jLC9UMbWKa" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T23:49:53.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="J_Z8bM7ibKOJqehu42ae" version="22.1.11" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="8309" dy="3596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="9190" dy="4060" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5830,6 +5830,9 @@
               <mxPoint x="-6052.75" y="1043" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KZXJAjPrANuK2zBouGoF-738" value="21/12 : Add new admin" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-6560" y="-1642" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
