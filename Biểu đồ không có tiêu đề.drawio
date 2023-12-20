@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T23:55:08.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="r0Rb2HbLF19NBJU3Ds0S" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T23:57:36.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oFXLomtXZ_Z3ltqX-V38" version="22.1.11" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="9190" dy="4460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="9006" dy="4363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5836,6 +5836,21 @@
         </mxCell>
         <mxCell id="KZXJAjPrANuK2zBouGoF-739" value="update role" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-2103" y="-2859" width="73" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="KZXJAjPrANuK2zBouGoF-740" value="delete" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2642" y="-994" width="48" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="KZXJAjPrANuK2zBouGoF-741" value="// thiếu constructor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3036" y="-280" width="109" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="KZXJAjPrANuK2zBouGoF-742" value="// ko có&amp;nbsp; flow nào thông báo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3046.5" y="-240" width="153" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="KZXJAjPrANuK2zBouGoF-743" value="if user click Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3088" y="-179" width="93" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="KZXJAjPrANuK2zBouGoF-744" value="Vẽ lại&amp;nbsp; work flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-6548" y="1743" width="97" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
