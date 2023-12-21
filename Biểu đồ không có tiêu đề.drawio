@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T08:51:50.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9z8nh2MVPBhmYtqFkeOI" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T08:52:10.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Rzzec9rBwm3AqhP2hChI" version="22.1.11" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="8393" dy="3977" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -6474,6 +6474,9 @@
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-140" value="grantAccess()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="7898" y="854" width="86" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="L4loFf-AQ8BwamRp5oPX-141" value="Analysis Register Course" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="6687" y="-319" width="142" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
