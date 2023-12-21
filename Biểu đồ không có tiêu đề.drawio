@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T11:22:22.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="f_U1yi1mpnMKpQYtR9Mh" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T12:12:50.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qor4CfZreanFaWn9AeM-" version="22.1.11" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="10385" dy="4948" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -6128,7 +6128,7 @@
           <mxGeometry x="19" y="290" width="10" height="82" as="geometry" />
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-14" value=":OrderController" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fillColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="7091" y="-167" width="80" height="26" as="geometry" />
+          <mxGeometry x="7103.5" y="-167" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-15" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="6983" y="-209.5" width="59" height="1402.5" as="geometry" />
@@ -6146,7 +6146,7 @@
           <mxGeometry x="24.5" y="891" width="10" height="434" as="geometry" />
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-20" value=":EnrollmentFormUI" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fillColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="6967" y="-167" width="80" height="26" as="geometry" />
+          <mxGeometry x="6945" y="-167" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-21" value=":EnrollmentController" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fillColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="7394" y="-169" width="80" height="26" as="geometry" />
@@ -6209,10 +6209,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-42" value="&amp;nbsp; &amp;nbsp; 4. registerCourse()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="6992" y="67" width="169" height="31" as="geometry" />
+          <mxGeometry x="7036.5" y="47" width="169" height="31" as="geometry" />
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-43" value="5. createOrder()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="7152" y="95" width="132" height="31" as="geometry" />
+          <mxGeometry x="7157.5" y="84" width="132" height="31" as="geometry" />
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-44" value="6.&amp;nbsp; showSuccessOrder()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;labelBackgroundColor=default;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;shape=connector;" edge="1" target="L4loFf-AQ8BwamRp5oPX-19" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -6253,13 +6253,13 @@
           <mxGeometry x="15" y="1071.5" width="10" height="101.5" as="geometry" />
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-61" value=":AccountAccessCourse" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fillColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="8074" y="-165.5" width="80" height="26" as="geometry" />
+          <mxGeometry x="8090" y="-165.5" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-70" value="10.enrollCourse()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="7456.5" y="394" width="142" height="31" as="geometry" />
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-76" value="9. requestEnrollment()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="7277" y="369" width="176" height="31" as="geometry" />
+          <mxGeometry x="7296" y="346" width="176" height="31" as="geometry" />
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-77" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;endArrow=classic;" edge="1" parent="1" target="L4loFf-AQ8BwamRp5oPX-69">
           <mxGeometry relative="1" as="geometry">
@@ -6371,7 +6371,7 @@
           <mxGeometry x="8809" y="457" width="59" height="29" as="geometry" />
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-111" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;:CourseDetailUI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFFFF;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="8212" y="-163" width="138" height="31" as="geometry" />
+          <mxGeometry x="8226" y="-169" width="138" height="31" as="geometry" />
         </mxCell>
         <mxCell id="L4loFf-AQ8BwamRp5oPX-112" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;" edge="1" target="L4loFf-AQ8BwamRp5oPX-115" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -6490,8 +6490,8 @@
             <mxPoint x="8258" y="911.46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L4loFf-AQ8BwamRp5oPX-145" value="displayCourseDetail()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="7719.5" y="877" width="171" height="31" as="geometry" />
+        <mxCell id="L4loFf-AQ8BwamRp5oPX-145" value="17. displayCourseDetail()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="7738" y="876" width="198" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
