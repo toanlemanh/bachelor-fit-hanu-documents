@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T09:48:40.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ewoZHv1hxTiLzIFRgNRg" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T09:52:35.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NuFUmVnBGX8IpfZ4ONq7" version="23.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3748" dy="998" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -982,6 +982,63 @@
             <Array as="points">
               <mxPoint x="570" y="447" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-373" value="UC: Delete Topic" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2324" y="3014" width="660" height="555" as="geometry" />
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-374" value="Lecturer" style="swimlane;startSize=20;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="yppCSSEcmfaavreNnkve-373">
+          <mxGeometry y="20" width="217" height="535" as="geometry" />
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-375" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#fa0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="yppCSSEcmfaavreNnkve-374" source="yppCSSEcmfaavreNnkve-376" target="yppCSSEcmfaavreNnkve-378">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-376" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontFamily=Helvetica;fontSize=11;strokeWidth=6;labelBorderColor=#ec1809;" vertex="1" parent="yppCSSEcmfaavreNnkve-374">
+          <mxGeometry x="91.49999999999955" y="47" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-377" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#fa0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="yppCSSEcmfaavreNnkve-374" source="yppCSSEcmfaavreNnkve-378" target="yppCSSEcmfaavreNnkve-380">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="101.5" y="172" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-378" value="Choose Delete" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#fff2cc;strokeColor=#f90101;labelBorderColor=none;strokeWidth=1;gradientColor=none;glass=0;shadow=0;perimeterSpacing=0;" vertex="1" parent="yppCSSEcmfaavreNnkve-374">
+          <mxGeometry x="57" y="104" width="89" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-379" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#fa0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yppCSSEcmfaavreNnkve-374" source="yppCSSEcmfaavreNnkve-380" target="yppCSSEcmfaavreNnkve-381">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="101.5" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-380" value="Confirm to delete" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#fff2cc;strokeColor=#f90101;labelBorderColor=none;strokeWidth=1;gradientColor=none;glass=0;shadow=0;perimeterSpacing=0;" vertex="1" parent="yppCSSEcmfaavreNnkve-374">
+          <mxGeometry x="57" y="180" width="89" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-381" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#fafafa;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#181816;strokeWidth=3;" vertex="1" parent="yppCSSEcmfaavreNnkve-374">
+          <mxGeometry x="91.5" y="426" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-382" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#fa0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="yppCSSEcmfaavreNnkve-373" source="yppCSSEcmfaavreNnkve-380" target="yppCSSEcmfaavreNnkve-388">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="288.272727272727" y="219.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-383" value="lms.fit.hanu.vn" style="swimlane;startSize=20;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="yppCSSEcmfaavreNnkve-373">
+          <mxGeometry x="217" y="20" width="252" height="535" as="geometry" />
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-385" value="Delete successfully" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#fff2cc;strokeColor=#f90101;labelBorderColor=none;strokeWidth=1;gradientColor=none;glass=0;shadow=0;perimeterSpacing=0;" vertex="1" parent="yppCSSEcmfaavreNnkve-383">
+          <mxGeometry x="84" y="407" width="89" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-386" value="Database" style="swimlane;startSize=20;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="yppCSSEcmfaavreNnkve-373">
+          <mxGeometry x="469" y="20" width="191" height="535" as="geometry" />
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-388" value="Delete topic" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#fff2cc;strokeColor=#f90101;labelBorderColor=none;strokeWidth=1;gradientColor=none;glass=0;shadow=0;perimeterSpacing=0;" vertex="1" parent="yppCSSEcmfaavreNnkve-386">
+          <mxGeometry x="54" y="180" width="89" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="yppCSSEcmfaavreNnkve-393" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#fa0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="yppCSSEcmfaavreNnkve-373" source="yppCSSEcmfaavreNnkve-388" target="yppCSSEcmfaavreNnkve-385">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393" y="447" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="447" />
+            </Array>
+            <mxPoint x="569.5897435897441" y="383" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
