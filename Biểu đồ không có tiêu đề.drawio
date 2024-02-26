@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T08:20:46.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sr8NZ4yDesek8ohFE8-U" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T08:29:36.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_-FSFxZTMVMgsZmNZntu" version="23.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5406" dy="1612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3823" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1728,7 +1728,7 @@
         <mxCell id="H31KBybr80enZw4-UYwB-163" value="View: Course Detail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="69" y="5473" width="121" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="H31KBybr80enZw4-UYwB-185" value="UC: Create &amp;amp; Edit textual content" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="H31KBybr80enZw4-UYwB-185" value="UC: Create textual content" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="5570" width="665" height="706" as="geometry" />
         </mxCell>
         <mxCell id="H31KBybr80enZw4-UYwB-186" value="Lecturer" style="swimlane;startSize=20;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="H31KBybr80enZw4-UYwB-185">
