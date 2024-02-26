@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T11:23:29.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-eOgK2WBDa9hIPisBigt" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T11:23:49.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EF2FfBQY46LjnEZgtknE" version="23.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="4504" dy="1116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1969,7 +1969,7 @@
         <mxCell id="H31KBybr80enZw4-UYwB-327" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;fillColor=#f8cecc;" edge="1" parent="H31KBybr80enZw4-UYwB-286" source="H31KBybr80enZw4-UYwB-299" target="H31KBybr80enZw4-UYwB-298">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H31KBybr80enZw4-UYwB-299" value="Redirect to Resource page" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#fff2cc;strokeColor=#f90101;labelBorderColor=none;strokeWidth=1;gradientColor=none;glass=0;shadow=0;perimeterSpacing=0;" vertex="1" parent="H31KBybr80enZw4-UYwB-286">
+        <mxCell id="H31KBybr80enZw4-UYwB-299" value="Redirect to &quot;CourseDetail&quot; page" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#fff2cc;strokeColor=#f90101;labelBorderColor=none;strokeWidth=1;gradientColor=none;glass=0;shadow=0;perimeterSpacing=0;" vertex="1" parent="H31KBybr80enZw4-UYwB-286">
           <mxGeometry x="88" y="442.5" width="89" height="39" as="geometry" />
         </mxCell>
         <mxCell id="H31KBybr80enZw4-UYwB-302" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#fa0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="H31KBybr80enZw4-UYwB-286" source="H31KBybr80enZw4-UYwB-295">
