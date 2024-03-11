@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T03:29:09.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JieEtomYLPlT8I0ZOLoO" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T03:31:12.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="lJQCNIiv7Y-YAOwIBQs3" version="23.1.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3891" dy="1055" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2301,9 +2301,10 @@
         <mxCell id="82tn3Al5n3Lo4uRwLgS0-40" value="approved dosage&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="22.5" y="9479" width="114" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="82tn3Al5n3Lo4uRwLgS0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="82tn3Al5n3Lo4uRwLgS0-41">
+        <mxCell id="82tn3Al5n3Lo4uRwLgS0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="233.42857142857156" y="9700" as="targetPoint" />
+            <mxPoint x="106" y="9616" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="82tn3Al5n3Lo4uRwLgS0-41" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d4d80e;fillColor=#99FF99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -2326,20 +2327,6 @@
         </mxCell>
         <mxCell id="82tn3Al5n3Lo4uRwLgS0-48" value="formulated presciption label" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="85" y="9577" width="165" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="82tn3Al5n3Lo4uRwLgS0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="82tn3Al5n3Lo4uRwLgS0-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-217.4545454545455" y="9527" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-217" y="9614" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="82tn3Al5n3Lo4uRwLgS0-53" value="drug data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-197" y="9580" width="69" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="82tn3Al5n3Lo4uRwLgS0-54" value="Drug" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-277" y="9468" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
