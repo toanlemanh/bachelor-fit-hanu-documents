@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T13:05:40.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2n7vj6PP8i4ucJq3LJSA" version="24.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-25T13:06:21.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EpBl-Wj3WoDU0TcWTE0Q" version="24.0.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="6068" dy="1912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3233,7 +3233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a4WOnFoXm-TmucTXCioJ" name="Trang-3">
-    <mxGraphModel dx="1509" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="1912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3539,6 +3539,15 @@
         </mxCell>
         <mxCell id="iVXKbkTQvfqoSlKWo4sZ-114" value="+ saveTopicItem()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="iVXKbkTQvfqoSlKWo4sZ-107">
           <mxGeometry y="190" width="266" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iVXKbkTQvfqoSlKWo4sZ-116" value="Controller" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="571" y="-10" width="66" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iVXKbkTQvfqoSlKWo4sZ-117" value="Repository" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="12" width="71" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iVXKbkTQvfqoSlKWo4sZ-118" value="Model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="964" y="228" width="48" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
