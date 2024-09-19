@@ -2434,6 +2434,9 @@
         <mxCell id="oucdARYs6G-QUKYvVlvd-20" value="Peer review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-146" y="442" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oucdARYs6G-QUKYvVlvd-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Workflow of SS1 team&lt;/h1&gt;&lt;p&gt;This is a desired process which covers several step you need to follow, avoiding missing deadline.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="865" y="354" width="265" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
