@@ -96,6 +96,11 @@
             <mxPoint x="-121" y="376.78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-b6af1655-7fff-52c7-5cdc-a582b378b31b&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:&#39;Times New Roman&#39;,serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:602px;height:123px;&quot;&gt;&lt;img src=&quot;https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdPL4Qrk1MrA2F1l5yoia74HxhY0La3YEgcB3GsbiLZ1UmWC5t6bU6QshXvCfNOiwg_GTlESnn-6QQXrIT9MaXd_CVLscYkjZrc148yQDx7IhgIXm1hdroU0pIp-uvl0UpipnhgQ?key=aJlu1-SaLsav4adiZPzk4Phg&quot; width=&quot;602&quot; height=&quot;123&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" link="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-b6af1655-7fff-52c7-5cdc-a582b378b31b&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:&#39;Times New Roman&#39;,serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:602px;height:123px;&quot;&gt;&lt;img src=&quot;https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdPL4Qrk1MrA2F1l5yoia74HxhY0La3YEgcB3GsbiLZ1UmWC5t6bU6QshXvCfNOiwg_GTlESnn-6QQXrIT9MaXd_CVLscYkjZrc148yQDx7IhgIXm1hdroU0pIp-uvl0UpipnhgQ?key=aJlu1-SaLsav4adiZPzk4Phg&quot; width=&quot;602&quot; height=&quot;123&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" id="khBHm0PvMQcmPVcA-Ins-8">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-121.75862068965512" y="816.9310344827586" width="550" height="150" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
